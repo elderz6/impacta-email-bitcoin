@@ -1,0 +1,4 @@
+*.exe
+googleapi.json
+gcp.json
+node_modules
